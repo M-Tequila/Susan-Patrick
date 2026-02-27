@@ -46,6 +46,6 @@ Tech: Python, Regex, Pandas
 ## 🛠 Tech Stack
 Python | SQL | Pandas | FastAPI | Streamlit | Excel
 
-## Patrcik Susan
+## Patrick Susan
 Data scientist focused on decision making and real-world impact.
 Email: (2mishey@gmail.com)
